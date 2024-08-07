@@ -1,1 +1,2 @@
-Registros del Turismo deL Meta en el turismo en los 4 primeros mesesde del año 2024.
+Puedes ver el Dashboard en Looker Studio [aquí]().
+![Centros SENA](Registro_Nacional_De_Turismo_Meta.jpg)
